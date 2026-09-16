@@ -1,8 +1,8 @@
 ---
 name: imi-csv-diy
 description: >
-  IMI 导针 CSV→xlsx 拆分技能。当用户提供了 {case}_trajs.csv 和 {case}_imi.csv 两个文件，
-  并要求按指定 IMI deposit ID 区间拆分为多个 xlsx 文件时使用。
+  IMI 导针 CSV→xlsx 拆分技能。当用户提供了 {case}_trajs.csv 和 {case}_imi.csv 两个文件， 并要求按指定 IMI
+  deposit ID 区间拆分为多个 xlsx 文件时使用。
   触发词：CSV拆分、IMI拆分、trajs拆分、imi_csv、csv转xlsx、拆分到traj、deposit拆分。
 agent_created: true
 ---
